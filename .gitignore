@@ -21,4 +21,4 @@
 go.work
 
 #firebase
-.firebaseconfig.json
+firebaseconfig.json
